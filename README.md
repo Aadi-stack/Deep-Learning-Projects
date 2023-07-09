@@ -26,7 +26,11 @@ Deployment: GCP (Google Cloud Platform, GCF (Google Cloud functions)
 # Dataset
 https://www.kaggle.com/datasets/arjuntejaswi/plant-village
 
+# Data Collection 
 
+# Model Building
+
+# Fast Api/tf backend
 
 
 
