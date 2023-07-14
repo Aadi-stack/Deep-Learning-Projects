@@ -15,7 +15,7 @@ Projects are:
 
 # Plant classification using  deep learning(Deep learning project series in the agriculture domain)
 
-
+# ![Plant Classification](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ceTN0xHkTtx1OKX_Thbnnqji8bzNuLtwkiAhkarovLwOtkliNVwCW47lQ1T5KkZPpxo&usqp=CAU)
 
 
 Farmers every year face economic loss and crop waste due to various diseases in potato plants. We will use image classification using CNN and build a mobile app using which a farmer can take a picture and the app will tell you if the plant has a disease or not. The technology stack for this project will be,
