@@ -5,15 +5,18 @@ LINK OF Blog: https://medium.com/@aaditshukla98710
 
 Follow on GitHub also or LinkedIn:https://www.linkedin.com/in/aaditshukla/
 
-Projects are: 1. Breast Cancer Detection
+Projects are:
+1. Breast Cancer Detection
 
 2. Human Activity Recognition
 
 3. Plant Classification
 
 
-# Plant classification using  deep learning
-## Deep learning project series in the agriculture domain
+# Plant classification using  deep learning(Deep learning project series in the agriculture domain)
+
+
+
 
 Farmers every year face economic loss and crop waste due to various diseases in potato plants. We will use image classification using CNN and build a mobile app using which a farmer can take a picture and the app will tell you if the plant has a disease or not. The technology stack for this project will be,
 
